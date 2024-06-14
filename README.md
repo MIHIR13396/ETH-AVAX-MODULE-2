@@ -470,6 +470,9 @@ To get this project running on your computer, follow these steps:
 ![Web Application Preview](C:\Users\mihir\Pictures\Screenshots\metamask weboage.png)
 
 
+![metamask weboage](https://github.com/MIHIR13396/ETH-AVAX-MODULE-2/assets/170404294/8b4345c3-d3bc-46f9-b351-89bae814707a)
+
+
 ## Authors
 
 MIHIR  
