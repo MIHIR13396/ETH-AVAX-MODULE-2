@@ -10,7 +10,7 @@ This project includes a smart contract written in Solidity and a frontend applic
 
 ### Prerequisites
 
-To run this project, you need to have the following installed:
+To run this project, you need to have the following installed :
 
 - [Node.js](https://nodejs.org/)
 - [MetaMask](https://metamask.io/)
